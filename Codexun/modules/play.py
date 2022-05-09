@@ -7,7 +7,7 @@ import psutil
 import subprocess
 import requests
 import aiohttp
-import git+https://github.com/UNREALBOT12/yt-dll@master
+import https://github.com/UNREALBOT12/yt-dll@master
 import aiohttp
 import random
 
