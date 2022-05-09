@@ -1,5 +1,10 @@
 <h2 align="centre">Telegram Group Music Player Bot 🎵</h2>
 
+## Deploy to Railway
+
+<p><a href="https://railway.app/new/template?template=https://github.com/UNREALBOT12/Fifth&envs="SESSION_NAME,OWNER_ID,ASSID,ASSNAME,ASSUSERNAME,BOT_ID,BOT_USERNAME,BOT_NAME,BG_IMG,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,BOT_TOKEN,MONGO_DB_URI"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+
+
 ### A bot that can play music on telegram group's voice call
 
 <p align="center">
